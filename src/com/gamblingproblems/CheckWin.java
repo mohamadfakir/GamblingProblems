@@ -3,7 +3,7 @@ package com.gamblingproblems;
 import java.util.Scanner;
 
 public class CheckWin {
-
+        
         public void checkWin(){
             System.out.println("Enter the stake ammount");
             Scanner sc = new Scanner(System.in);
