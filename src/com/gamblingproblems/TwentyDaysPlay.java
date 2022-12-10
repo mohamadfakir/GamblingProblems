@@ -4,6 +4,7 @@ package com.gamblingproblems;
 import java.util.Random;
 
 public class TwentyDaysPlay {
+        
         public static final int stakePay = 100;
         public static final int betPerGame = 1;
         public static final int win = 1;
